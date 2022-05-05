@@ -4,4 +4,4 @@ My TO_DO LIST
 2. code.
 3. Study books.
 4. Apply for remote jobs
-
+5. practice coding
