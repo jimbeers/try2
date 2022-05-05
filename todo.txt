@@ -6,4 +6,6 @@ My TO_DO LIST
 4. Apply for remote jobs
 5. practice coding
 6. practice GITHUB
+7. complete internship task
+8. solve chess puzzles
 
