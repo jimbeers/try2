@@ -8,4 +8,6 @@ My TO_DO LIST
 6. practice GITHUB
 7. complete internship task
 8. solve chess puzzles
+9. Walnuts
+
 
