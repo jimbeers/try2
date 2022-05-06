@@ -1,7 +1,7 @@
 My TO_DO LIST
 
 1. write an article
-2. code.
+2. Good code.
 3. Study books.
 4. Apply for remote jobs
 5. practice coding
@@ -10,6 +10,6 @@ My TO_DO LIST
 8. solve chess puzzles
 9. English Walnuts
 10. Green Beans
-11. Raddishes
+11. Bananas
 
 
